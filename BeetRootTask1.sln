@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeetRootTask1", "BeetRootTask1.csproj", "{9344ABAA-C0B5-4A2C-8A81-3271499DFBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9344ABAA-C0B5-4A2C-8A81-3271499DFBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9344ABAA-C0B5-4A2C-8A81-3271499DFBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9344ABAA-C0B5-4A2C-8A81-3271499DFBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9344ABAA-C0B5-4A2C-8A81-3271499DFBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9436112-F704-44C0-B400-0FA589AF9888}
+	EndGlobalSection
+EndGlobal
